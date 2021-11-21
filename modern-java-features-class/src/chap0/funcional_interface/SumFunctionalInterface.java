@@ -1,4 +1,4 @@
-package funcional_interface;
+package chap0.funcional_interface;
 
 public interface SumFunctionalInterface {
 

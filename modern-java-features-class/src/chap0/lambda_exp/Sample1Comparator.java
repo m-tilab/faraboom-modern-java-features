@@ -1,6 +1,6 @@
-package lambda_exp;
+package chap0.lambda_exp;
 
-import default_method.Student;
+import chap0.default_method.Student;
 
 import java.util.Arrays;
 import java.util.Collections;

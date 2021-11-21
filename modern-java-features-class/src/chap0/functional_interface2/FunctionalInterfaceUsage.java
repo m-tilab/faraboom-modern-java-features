@@ -1,6 +1,6 @@
-package functional_interface2;
+package chap0.functional_interface2;
 
-import default_method.Student;
+import chap0.default_method.Student;
 
 import java.util.ArrayList;
 import java.util.List;

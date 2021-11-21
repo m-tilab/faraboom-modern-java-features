@@ -1,4 +1,4 @@
-package method_ref;
+package chap0.method_ref;
 
 @FunctionalInterface
 public interface StartsWithFunctionalInterface<F, T> {

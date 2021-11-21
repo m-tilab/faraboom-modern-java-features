@@ -1,4 +1,4 @@
-package method_ref;
+package chap0.method_ref;
 
 public class Sample2StringTools {
 
